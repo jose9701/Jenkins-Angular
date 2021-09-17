@@ -8,7 +8,7 @@ pipeline {
     /*
     stage('Cloning Git') {
       steps {
-        git branch: 'main',  url: 'https://github.com/Marl0nGonzalez/Jenkins-Angular'
+        git branch: 'main',  url: 'https://github.com/jose9701/Jenkins-Angular'
       }
     }
     */
